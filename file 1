@@ -1,0 +1,30 @@
+{
+  apiKey:xJNTKLbIdPYcLDhwlJyOURAdT8o2
+    {
+      "role": "user",
+      "content": "Hi there"
+    }
+  ],
+  "temperature": 0.7,
+  "top_k": 40,
+  "top_p": 0.8,
+  "repetition_penalty": 1.1,
+  "batch_size": 4,
+  "max_new_tokens": 512
+}
+
+{
+  "data": {
+    "input": [
+      {
+        "role": "user",
+        "content": "Hi there"
+      }
+    ],
+    "output": {
+      "role": "assistant",
+      "content": "Hi there! How can I assist you today?"
+    },
+    "credits": 3082
+  }
+}
